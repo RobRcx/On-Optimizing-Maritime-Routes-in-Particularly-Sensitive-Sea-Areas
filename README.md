@@ -1,7 +1,7 @@
-## Repository for the paper "On Optimizing Maritime Routes in Particularly Sensitive Sea Areas"
+# Repository for the paper "On Optimizing Maritime Routes in Particularly Sensitive Sea Areas"
 
-# instance.json
+## instance.json
 Instance of the Mediterranean Sea used in Section IV.
 
-# env.yml
+## env.yml
 Contains the Python dependencies for running the code files in the repository
