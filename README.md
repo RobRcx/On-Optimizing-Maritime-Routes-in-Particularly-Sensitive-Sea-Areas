@@ -11,6 +11,6 @@ Imports the "instance.py" module and outputs the global variables created by "in
 
 ## instance.json
 Instance of the problem based on the Mediterranean Sea used in Section IV.
-
+The file "Metadata.py" describes the fields of "instance.json" according to the notation used in the paper.
 
 
