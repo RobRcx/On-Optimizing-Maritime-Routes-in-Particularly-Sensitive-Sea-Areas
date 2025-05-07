@@ -1,10 +1,6 @@
 ## Mapping of the variable names in "instance.json" to the notation used in the paper
 
-The format used in this file is:
-
-name of the variable in "instance.json" : notation used in the paper
-
-<br>
+<b>name of the variable in "instance.json" : notation used in the paper</b>
 
 ships : n_S ships, S = {1, … , n_S} with n_S ≥ 1
 
